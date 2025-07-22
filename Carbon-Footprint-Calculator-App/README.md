@@ -62,7 +62,4 @@ If you wish to offset your carbon footprint, you can proceed by donating trees t
 
 
 
-## 📺Project Presentation
-
-https://github.com/mesutdmn/Carbon-Footprint-Calculator-App/assets/72805471/657285e0-eded-4296-8937-fd2d22f7aeef
 
